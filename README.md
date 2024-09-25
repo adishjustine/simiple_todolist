@@ -1,1 +1,1 @@
-# simiple_todolist
+# this is a simple to do list web app
