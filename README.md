@@ -1,1 +1,1 @@
-simple ToDoList
+SimpleToDoList
